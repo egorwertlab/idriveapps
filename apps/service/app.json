@@ -1,6 +1,6 @@
 {
   "id": "service",
-  "title": "Service",
+  "title": "WertLab",
   "description": "Service requirements from the instrument cluster: oil, brakes, brake fluid, vehicle check, inspection - distance, date, details; brake fluid and vehicle check reset",
   "version": "1.6.1",
   "vendor": "custom",
